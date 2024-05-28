@@ -8,4 +8,5 @@ To practice my competitive programming, I decided to grind solved.ac during my s
 2024/05/22 01:06:19 Completed Class 1**\
 2024/05/23 04:30:58 Completed Class 2**\
 2024/05/25 18:00:16 Completed Class 3**\
-2024/05/27 18:13:05 Reached Class 4 (20/48)
+2024/05/27 18:13:05 Reached Class 4 (20/48)\
+2024/05/28 19:56:53 Completed Class 4**
