@@ -2,7 +2,7 @@
 
 To practice my competitive programming, I decided to grind solved.ac during my summer break.
 
-# Completion Time (BOJ TIME)
+# Completion Time (BOJ Time)
 
 2024/05/21 Challenge: Accepted\
 2024/05/22 01:06:19 Completed Class 1**\
