@@ -11,5 +11,5 @@ To practice my competitive programming, I decided to grind solved.ac during my s
 2024/05/27 18:13:05 Reached Class 4 (20/48)\
 2024/05/28 19:56:53 Completed Class 4**\
 2024/05/29 17:57:20 Reached Class 5 (20/48)\
-(Slowed down because I was sick)
+(Slowed down because I was sick)\
 2024/06/02 03:12:03 Completed Class 5* (All 24 essentials)
