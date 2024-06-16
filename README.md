@@ -2,7 +2,7 @@
 
 To practice my competitive programming, I decided to grind solved.ac during my summer break.
 
-# Completion Time (TW Time)
+# Completion Time
 
 2024/05/21 Challenge: Accepted\
 2024/05/22 01:06:19 Completed Class 1++\
@@ -13,4 +13,6 @@ To practice my competitive programming, I decided to grind solved.ac during my s
 2024/05/29 17:57:20 Reached Class 5 (20/48)\
 (Slowed down because I was sick)\
 2024/06/02 03:12:03 Completed Class 5+ (All 24 essentials)\
-2024/06/02 17:12:24 Completed Class 5++
+2024/06/02 17:12:24 Completed Class 5++\
+(Traveling in Korea)\
+2024/06/17 06:03:09 Reached Class 6
